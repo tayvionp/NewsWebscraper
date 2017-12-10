@@ -32,10 +32,4 @@ def HackerNews():
                        for link in output:
                            newsFile.write("Title: " + a["title"] + " \nLink: " "https://darkreading.com" + a["href"] + "\n")
 
-
-
-
-
-
-
 HackerNews()
