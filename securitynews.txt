@@ -1,0 +1,170 @@
+Title: What Slugs in a Garden Can Teach Us About Security 
+Link: https://darkreading.com/risk/what-slugs-in-a-garden-can-teach-us-about-security/a/d-id/1330568
+Title: Conficker: The Worm That Won't Die
+Link: https://darkreading.com/attacks-breaches/conficker-the-worm-that-wont-die/d/d-id/1330594
+Title: Bitcoin Miner NiceHash Hacked, Possibly Losing $62 Million in Bitcoin
+Link: https://darkreading.com/cloud/bitcoin-miner-nicehash-hacked-possibly-losing-$62-million-in-bitcoin/d/d-id/1330585
+Title: Uber Used $100K Bug Bounty to Pay, Silence Florida Hacker: Report
+Link: https://darkreading.com/attacks-breaches/uber-used-$100k-bug-bounty-to-pay-silence-florida-hacker-report/d/d-id/1330584
+Title: Attacker 'Dwell Time' Average Dips Slightly to 86 Days
+Link: https://darkreading.com/attacks-breaches/attacker-dwell-time-average-dips-slightly-to-86-days/d/d-id/1330580
+Title: Why Third-Party Security is your Security
+Link: https://darkreading.com/partner-perspectives/f5/why-third-party-security-is-your-security/a/d-id/1330552
+Title: Nearly 2/3 of Industrial Companies Lack Security Monitoring
+Link: https://darkreading.com/risk/nearly-2-3-of-industrial-companies-lack-security-monitoring/d/d-id/1330570
+Title: Most Retailers Haven't Fully Tested Their Breach Response Plans
+Link: https://darkreading.com/cloud/most-retailers-havent-fully-tested-their-breach-response-plans/d/d-id/1330572
+Title: Why Cybersecurity Must Be an International Effort
+Link: https://darkreading.com/risk/why-cybersecurity-must-be-an-international-effort/d/d-id/1330571
+Title: How the Major Intel ME Firmware Flaw Lets Attackers Get 'God Mode' on a Machine
+Link: https://darkreading.com/vulnerabilities---threats/how-the-major-intel-me-firmware-flaw-lets-attackers-get-god-mode-on-a-machine/d/d-id/1330565
+Title: Cyberattack: It Can't Happen to Us (Until It Does)
+Link: https://darkreading.com/risk/cyberattack-it-cant-happen-to-us-(until-it-does)/a/d-id/1330533
+Title: Study: Simulated Attacks Uncover Real-World Problems in IT Security
+Link: https://darkreading.com/cloud/study-simulated-attacks-uncover-real-world-problems-in-it-security/d/d-id/1330553
+Title: FBI, Europol, Microsoft, ESET Team Up, Dismantle One of World's Largest Malware Operations
+Link: https://darkreading.com/attacks-breaches/fbi-europol-microsoft-eset-team-up-dismantle-one-of-worlds-largest-malware-operations/d/d-id/1330548
+Title: PayPal's TIO Networks Suffered Data Breach Exposing Data on 1.6 Million Customers
+Link: https://darkreading.com/cloud/paypals-tio-networks-suffered-data-breach-exposing-data-on-16-million-customers/d/d-id/1330542
+Title: The Rising Dangers of Unsecured IoT Technology
+Link: https://darkreading.com/mobile/the-rising-dangers-of-unsecured-iot-technology--/a/d-id/1330518
+Title: Hacked IV Pumps and Digital Smart Pens Can Lead to Data Breaches
+Link: https://darkreading.com/mobile/hacked-iv-pumps-and-digital-smart-pens-can-lead-to-data-breaches/d/d-id/1330536
+Title: What Slugs in a Garden Can Teach Us About Security
+Link: https://darkreading.com/risk/what-slugs-in-a-garden-can-teach-us-about-security/a/d-id/1330568
+Title: Man-in-the-Middle Flaw in Major Banking, VPN Apps Exposes Millions
+Link: https://darkreading.com/mobile/man-in-the-middle-flaw-in-major-banking-vpn-apps-exposes-millions/d/d-id/1330586
+Title: Why Security Depends on Usability -- and How to Achieve Both
+Link: https://darkreading.com/risk/why-security-depends-on-usability----and-how-to-achieve-both/a/d-id/1330485
+Title: Git Some Security: Locking Down GitHub Hygiene
+Link: https://darkreading.com/application-security/git-some-security-locking-down-github-hygiene/d/d-id/1330511
+Title: Developers Can Do More to Up Their Security Game: Report
+Link: https://darkreading.com/application-security/developers-can-do-more-to-up-their-security-game-report/d/d-id/1330501
+Title: Cyber Forensics: The Next Frontier in Cybersecurity
+Link: https://darkreading.com/threat-intelligence/cyber-forensics-the-next-frontier-in-cybersecurity-/a/d-id/1330465
+Title: Researcher Finds Hole in Windows ASLR Security Defense
+Link: https://darkreading.com/vulnerabilities---threats/researcher-finds-hole-in-windows-aslr-security-defense/d/d-id/1330466
+Title: Terdot Banking Trojan Spies on Email, Social Media
+Link: https://darkreading.com/threat-intelligence/terdot-banking-trojan-spies-on-email-social-media/d/d-id/1330449
+Title: What the NFL Teaches Us about Fostering a Champion Security Team
+Link: https://darkreading.com/operations/what-the-nfl-teaches-us-about-fostering-a-champion-security-team/a/d-id/1330396
+Title: Frequent Software Releases, Updates May Injure App Security
+Link: https://darkreading.com/application-security/frequent-software-releases-updates-may-injure-app-security/d/d-id/1330412
+Title: What Slugs in a Garden Can Teach Us About Security
+Link: https://darkreading.com/risk/what-slugs-in-a-garden-can-teach-us-about-security/a/d-id/1330568
+Title: Microsoft Issues Emergency Patch for 'Critical' Flaw in Windows Security
+Link: https://darkreading.com/vulnerabilities---threats/microsoft-issues-emergency-patch-for-critical-flaw-in-windows-security/d/d-id/1330595
+Title: Man-in-the-Middle Flaw in Major Banking, VPN Apps Exposes Millions
+Link: https://darkreading.com/mobile/man-in-the-middle-flaw-in-major-banking-vpn-apps-exposes-millions/d/d-id/1330586
+Title: Bitcoin Miner NiceHash Hacked, Possibly Losing $62 Million in Bitcoin
+Link: https://darkreading.com/cloud/bitcoin-miner-nicehash-hacked-possibly-losing-$62-million-in-bitcoin/d/d-id/1330585
+Title: NIST Releases New Cybersecurity Framework Draft
+Link: https://darkreading.com/cloud/nist-releases-new-cybersecurity-framework-draft/d/d-id/1330579
+Title: Nearly 2/3 of Industrial Companies Lack Security Monitoring
+Link: https://darkreading.com/risk/nearly-2-3-of-industrial-companies-lack-security-monitoring/d/d-id/1330570
+Title: Most Retailers Haven't Fully Tested Their Breach Response Plans
+Link: https://darkreading.com/cloud/most-retailers-havent-fully-tested-their-breach-response-plans/d/d-id/1330572
+Title: Why Cybersecurity Must Be an International Effort
+Link: https://darkreading.com/risk/why-cybersecurity-must-be-an-international-effort/d/d-id/1330571
+Title: How the Major Intel ME Firmware Flaw Lets Attackers Get 'God Mode' on a Machine
+Link: https://darkreading.com/vulnerabilities---threats/how-the-major-intel-me-firmware-flaw-lets-attackers-get-god-mode-on-a-machine/d/d-id/1330565
+Title: Cyberattack: It Can't Happen to Us (Until It Does)
+Link: https://darkreading.com/risk/cyberattack-it-cant-happen-to-us-(until-it-does)/a/d-id/1330533
+Title: Study: Simulated Attacks Uncover Real-World Problems in IT Security
+Link: https://darkreading.com/cloud/study-simulated-attacks-uncover-real-world-problems-in-it-security/d/d-id/1330553
+Title: Bitcoin Sites Become Hot Targets for DDoS Attacks
+Link: https://darkreading.com/vulnerabilities---threats/bitcoin-sites-become-hot-targets-for-ddos-attacks/d/d-id/1330556
+Title: 6 Personality Profiles of White-Hat Hackers
+Link: https://darkreading.com/careers-and-people/6-personality-profiles-of-white-hat-hackers-/d/d-id/1330522
+Title: FBI, Europol, Microsoft, ESET Team Up, Dismantle One of World's Largest Malware Operations
+Link: https://darkreading.com/attacks-breaches/fbi-europol-microsoft-eset-team-up-dismantle-one-of-worlds-largest-malware-operations/d/d-id/1330548
+Title: Gartner: IT Security Spending to Reach $96 Billion in 2018
+Link: https://darkreading.com/operations/gartner-it-security-spending-to-reach-$96-billion-in-2018/d/d-id/1330596
+Title: Microsoft Issues Emergency Patch for 'Critical' Flaw in Windows Security
+Link: https://darkreading.com/vulnerabilities---threats/microsoft-issues-emergency-patch-for-critical-flaw-in-windows-security/d/d-id/1330595
+Title: Bitcoin Miner NiceHash Hacked, Possibly Losing $62 Million in Bitcoin
+Link: https://darkreading.com/cloud/bitcoin-miner-nicehash-hacked-possibly-losing-$62-million-in-bitcoin/d/d-id/1330585
+Title: Uber Used $100K Bug Bounty to Pay, Silence Florida Hacker: Report
+Link: https://darkreading.com/attacks-breaches/uber-used-$100k-bug-bounty-to-pay-silence-florida-hacker-report/d/d-id/1330584
+Title: How the Major Intel ME Firmware Flaw Lets Attackers Get 'God Mode' on a Machine
+Link: https://darkreading.com/vulnerabilities---threats/how-the-major-intel-me-firmware-flaw-lets-attackers-get-god-mode-on-a-machine/d/d-id/1330565
+Title: Study: Simulated Attacks Uncover Real-World Problems in IT Security
+Link: https://darkreading.com/cloud/study-simulated-attacks-uncover-real-world-problems-in-it-security/d/d-id/1330553
+Title: PayPal's TIO Networks Suffered Data Breach Exposing Data on 1.6 Million Customers
+Link: https://darkreading.com/cloud/paypals-tio-networks-suffered-data-breach-exposing-data-on-16-million-customers/d/d-id/1330542
+Title: The Rising Dangers of Unsecured IoT Technology
+Link: https://darkreading.com/mobile/the-rising-dangers-of-unsecured-iot-technology--/a/d-id/1330518
+Title: Hacked IV Pumps and Digital Smart Pens Can Lead to Data Breaches
+Link: https://darkreading.com/mobile/hacked-iv-pumps-and-digital-smart-pens-can-lead-to-data-breaches/d/d-id/1330536
+Title: Sallie Mae CISO: 4 Technologies That Will Shape IT Security
+Link: https://darkreading.com/mobile/sallie-mae-ciso-4-technologies-that-will-shape-it-security/d/d-id/1330531
+Title: 5 Free or Low-Cost Security Tools for Defenders
+Link: https://darkreading.com/mobile/5-free-or-low-cost-security-tools-for-defenders/d/d-id/1330520
+Title: First US Federal CISO Shares Security Lessons Learned
+Link: https://darkreading.com/attacks-breaches/first-us-federal-ciso-shares-security-lessons-learned/d/d-id/1330519
+Title: Big Apple Flaw Allows Root Access to Macs without Password
+Link: https://darkreading.com/endpoint/big-apple-flaw-allows-root-access-to-macs-without-password/d/d-id/1330516
+Title: Why Security Depends on Usability -- and How to Achieve Both
+Link: https://darkreading.com/risk/why-security-depends-on-usability----and-how-to-achieve-both/a/d-id/1330485
+Title: Uber's Security Slip-ups: What Went Wrong
+Link: https://darkreading.com/attacks-breaches/ubers-security-slip-ups-what-went-wrong/d/d-id/1330496
+Title: Nearly 2/3 of Industrial Companies Lack Security Monitoring
+Link: https://darkreading.com/risk/nearly-2-3-of-industrial-companies-lack-security-monitoring/d/d-id/1330570
+Title: The Rising Dangers of Unsecured IoT Technology
+Link: https://darkreading.com/mobile/the-rising-dangers-of-unsecured-iot-technology--/a/d-id/1330518
+Title: Hacked IV Pumps and Digital Smart Pens Can Lead to Data Breaches
+Link: https://darkreading.com/mobile/hacked-iv-pumps-and-digital-smart-pens-can-lead-to-data-breaches/d/d-id/1330536
+Title: Mobile Malware Incidents Hit 100% of Businesses
+Link: https://darkreading.com/mobile/mobile-malware-incidents-hit-100--of-businesses/d/d-id/1330453
+Title: Stealthy Android Malware Found in Google Play
+Link: https://darkreading.com/mobile/stealthy-android-malware-found-in-google-play/d/d-id/1330440
+Title: Enterprise Physical Security Drives IoT Adoption
+Link: https://darkreading.com/mobile/enterprise-physical-security-drives-iot-adoption/d/d-id/1330425
+Title: ADT Expands Cybersecurity Business with Purchase of Datashield
+Link: https://darkreading.com/threat-intelligence/adt-expands-cybersecurity-business-with-purchase-of-datashield/d/d-id/1330417
+Title: Cybersecurity Staffing Shortage Tied to Cyberattacks, Data Breaches
+Link: https://darkreading.com/cloud/cybersecurity-staffing-shortage-tied-to-cyberattacks-data-breaches/d/d-id/1330372
+Title: Cybercriminals Employ 'Driveby' Cryptocurrency Mining
+Link: https://darkreading.com/endpoint/cybercriminals-employ-driveby-cryptocurrency-mining-/d/d-id/1330353
+Title: Majority of US Companies' DDoS Defenses Breached
+Link: https://darkreading.com/attacks-breaches/majority-of-us-companies-ddos-defenses-breached/d/d-id/1330340
+Title: DDoS Flaw Found in Brother Printers
+Link: https://darkreading.com/vulnerabilities---threats/ddos-flaw-found-in-brother-printers-/d/d-id/1330333
+Title: 8 Older Companies Doing New Things in Security
+Link: https://darkreading.com/endpoint/8-older-companies-doing-new-things-in-security/d/d-id/1330324
+Title: 10 Mistakes End Users Make That Drive Security Managers Crazy
+Link: https://darkreading.com/endpoint/10-mistakes-end-users-make-that-drive-security-managers-crazy------/d/d-id/1330305
+Title: iPhone 7, Samsung Galaxy S8, Others Hacked in Pwn2Own
+Link: https://darkreading.com/mobile/iphone-7-samsung-galaxy-s8-others-hacked-in-pwn2own/d/d-id/1330296
+Title: Inmarsat Disputes IOActive Reports of Critical Flaws in Ship SATCOM
+Link: https://darkreading.com/vulnerabilities---threats/inmarsat-disputes-ioactive-reports-of-critical-flaws-in-ship-satcom/d/d-id/1330242
+Title: 'Reaper' IoT Botnet Likely a DDoS-for-Hire Tool
+Link: https://darkreading.com/mobile/reaper-iot-botnet-likely-a-ddos-for-hire-tool/d/d-id/1330235
+Title: What Slugs in a Garden Can Teach Us About Security
+Link: https://darkreading.com/risk/what-slugs-in-a-garden-can-teach-us-about-security/a/d-id/1330568
+Title: Microsoft Issues Emergency Patch for 'Critical' Flaw in Windows Security
+Link: https://darkreading.com/vulnerabilities---threats/microsoft-issues-emergency-patch-for-critical-flaw-in-windows-security/d/d-id/1330595
+Title: Man-in-the-Middle Flaw in Major Banking, VPN Apps Exposes Millions
+Link: https://darkreading.com/mobile/man-in-the-middle-flaw-in-major-banking-vpn-apps-exposes-millions/d/d-id/1330586
+Title: Bitcoin Miner NiceHash Hacked, Possibly Losing $62 Million in Bitcoin
+Link: https://darkreading.com/cloud/bitcoin-miner-nicehash-hacked-possibly-losing-$62-million-in-bitcoin/d/d-id/1330585
+Title: NIST Releases New Cybersecurity Framework Draft
+Link: https://darkreading.com/cloud/nist-releases-new-cybersecurity-framework-draft/d/d-id/1330579
+Title: Nearly 2/3 of Industrial Companies Lack Security Monitoring
+Link: https://darkreading.com/risk/nearly-2-3-of-industrial-companies-lack-security-monitoring/d/d-id/1330570
+Title: Most Retailers Haven't Fully Tested Their Breach Response Plans
+Link: https://darkreading.com/cloud/most-retailers-havent-fully-tested-their-breach-response-plans/d/d-id/1330572
+Title: Why Cybersecurity Must Be an International Effort
+Link: https://darkreading.com/risk/why-cybersecurity-must-be-an-international-effort/d/d-id/1330571
+Title: How the Major Intel ME Firmware Flaw Lets Attackers Get 'God Mode' on a Machine
+Link: https://darkreading.com/vulnerabilities---threats/how-the-major-intel-me-firmware-flaw-lets-attackers-get-god-mode-on-a-machine/d/d-id/1330565
+Title: Cyberattack: It Can't Happen to Us (Until It Does)
+Link: https://darkreading.com/risk/cyberattack-it-cant-happen-to-us-(until-it-does)/a/d-id/1330533
+Title: Study: Simulated Attacks Uncover Real-World Problems in IT Security
+Link: https://darkreading.com/cloud/study-simulated-attacks-uncover-real-world-problems-in-it-security/d/d-id/1330553
+Title: Bitcoin Sites Become Hot Targets for DDoS Attacks
+Link: https://darkreading.com/vulnerabilities---threats/bitcoin-sites-become-hot-targets-for-ddos-attacks/d/d-id/1330556
+Title: 6 Personality Profiles of White-Hat Hackers
+Link: https://darkreading.com/careers-and-people/6-personality-profiles-of-white-hat-hackers-/d/d-id/1330522
+Title: FBI, Europol, Microsoft, ESET Team Up, Dismantle One of World's Largest Malware Operations
+Link: https://darkreading.com/attacks-breaches/fbi-europol-microsoft-eset-team-up-dismantle-one-of-worlds-largest-malware-operations/d/d-id/1330548
